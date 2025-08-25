@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Publicación de ejercicio en Java"
+
+git branch -M main
+
+git remote add origin https://github.com/jlmendezm-netizen/ejercicio-java-semanaX.git
+
+git push -u origin main
